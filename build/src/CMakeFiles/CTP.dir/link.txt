@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/CTP.dir/main.cpp.o  -o ../../bin/CTP  -L/home/luoyixuan/CTP/lib ../../lib/libMdSpi.so.1.2 -lthostmduserapi -Wl,-rpath,/home/luoyixuan/CTP/lib 

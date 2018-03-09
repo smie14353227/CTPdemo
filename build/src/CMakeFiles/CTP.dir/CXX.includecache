@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/MdSpi.h
+vector
+-
+cstring
+-
+ThostFtdcMdApi.h
+../inc/ThostFtdcMdApi.h
+
+../inc/ThostFtdcMdApi.h
+ThostFtdcUserApiStruct.h
+../inc/ThostFtdcUserApiStruct.h
+
+../inc/ThostFtdcUserApiDataType.h
+
+../inc/ThostFtdcUserApiStruct.h
+ThostFtdcUserApiDataType.h
+../inc/ThostFtdcUserApiDataType.h
+
+/home/luoyixuan/CTP/src/main.cpp
+iostream
+-
+string
+-
+cstdio
+-
+cstdlib
+-
+MdSpi.h
+/home/luoyixuan/CTP/src/MdSpi.h
+
